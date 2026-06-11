@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="450" viewBox="0 0 600 450">
+  <rect width="600" height="450" fill="#EFEFED"/>
+  <rect x="220" y="210" width="160" height="110" rx="3" fill="#D4CEC4"/>
+  <polygon points="300,140 390,215 210,215" fill="#C2BBB0"/>
+  <rect x="272" y="270" width="56" height="50" rx="3" fill="#AEAAA4"/>
+  <rect x="228" y="235" width="34" height="28" rx="2" fill="#BFBAB4"/>
+  <rect x="338" y="235" width="34" height="28" rx="2" fill="#BFBAB4"/>
+  <rect x="335" y="148" width="18" height="30" fill="#C2BBB0"/>
+  <text x="300" y="370" text-anchor="middle" font-family="Georgia,serif" font-size="13" fill="#AEAAA4" letter-spacing="1">Photo non disponible</text>
+</svg>
